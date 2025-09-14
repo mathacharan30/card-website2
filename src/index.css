@@ -73,7 +73,7 @@
   filter:sepia(18%) saturate(125%) hue-rotate(320deg);
 }
 .section-divider-above{ background-image:url('./assets/section-above.jpg'); }
-.section-divider-below{ background-image:url('./assets/section-below.jpg'); }
+.section-divider-below{ background-image:url('./assets/section-below.png'); }
 
 /* Responsive */
 @media (max-width: 640px){
